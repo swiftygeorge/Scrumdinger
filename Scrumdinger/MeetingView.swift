@@ -38,7 +38,6 @@ struct MeetingView: View {
                     Label("Next speaker", systemImage: "forward.fill")
                         .labelStyle(.iconOnly)
                 }
-                .accessibilityLabel("Next speaker")
             }
         }
         .padding()
