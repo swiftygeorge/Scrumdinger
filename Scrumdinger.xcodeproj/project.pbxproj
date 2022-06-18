@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		D491F72B285D4BCB00D242CE /* ScrumdingerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D491F72A285D4BCB00D242CE /* ScrumdingerApp.swift */; };
-		D491F72D285D4BCB00D242CE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D491F72C285D4BCB00D242CE /* ContentView.swift */; };
+		D491F72D285D4BCB00D242CE /* MeetingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D491F72C285D4BCB00D242CE /* MeetingView.swift */; };
 		D491F72F285D4BCC00D242CE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D491F72E285D4BCC00D242CE /* Assets.xcassets */; };
 		D491F732285D4BCC00D242CE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D491F731285D4BCC00D242CE /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		D491F727285D4BCB00D242CE /* Scrumdinger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Scrumdinger.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D491F72A285D4BCB00D242CE /* ScrumdingerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumdingerApp.swift; sourceTree = "<group>"; };
-		D491F72C285D4BCB00D242CE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		D491F72C285D4BCB00D242CE /* MeetingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingView.swift; sourceTree = "<group>"; };
 		D491F72E285D4BCC00D242CE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D491F731285D4BCC00D242CE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				D491F72A285D4BCB00D242CE /* ScrumdingerApp.swift */,
-				D491F72C285D4BCB00D242CE /* ContentView.swift */,
+				D491F72C285D4BCB00D242CE /* MeetingView.swift */,
 				D491F72E285D4BCC00D242CE /* Assets.xcassets */,
 				D491F730285D4BCC00D242CE /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D491F72D285D4BCB00D242CE /* ContentView.swift in Sources */,
+				D491F72D285D4BCB00D242CE /* MeetingView.swift in Sources */,
 				D491F72B285D4BCB00D242CE /* ScrumdingerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
